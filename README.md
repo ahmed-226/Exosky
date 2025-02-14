@@ -1,4 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Exosky: Explore the Universe
+
+Exosky is a web application that allows users to explore exoplanets and stars using data from NASA APIs. The project provides an interactive 3D visualization of planets and stars, along with the ability to search for specific exoplanets and view detailed information about them.
+
+## Project Idea
+
+The main idea behind Exosky is to create an engaging and educational platform where users can learn about exoplanets and stars. By leveraging NASA's extensive data, users can explore the universe in a visually appealing and interactive manner. The project aims to spark curiosity and interest in astronomy and space exploration.
+
+## Features
+
+- **Interactive 3D Visualization**: Users can explore a 3D star field and view detailed information about individual stars and exoplanets.
+- **Search Functionality**: Users can search for specific exoplanets by name and view detailed information about them.
+- **Drawing Mode**: Users can draw constellations by connecting stars and save their artwork.
+- **Form Submission**: Users can submit their constellation drawings along with their details to contribute to the community.
+- **Responsive Design**: The application is designed to be responsive and works well on both desktop and mobile devices.
 
 ## Getting Started
 
@@ -12,25 +26,3 @@ yarn dev
 pnpm dev
 # or
 bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
